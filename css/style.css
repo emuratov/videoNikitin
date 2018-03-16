@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: gray;
+}
+.contacts i {
+  margin-left: 2rem;
+}
+.social {
+  display: flex;
+  justify-content: space-around;
+}
+.social i {
+  margin-left: 1rem;
+}
+.footer {
+  background-color: black;
+  color: gray;
+}
